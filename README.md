@@ -1,0 +1,1 @@
+Code écrit en langage C pour un projet personnel en première année d'études à l'Ensimag. L'objectif était d'implémenter une structure classique pour représenter un graphe ainsi que l'algorithme de Dijkstra en langage C.
